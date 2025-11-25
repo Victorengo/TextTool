@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Description du projet
+=======
+Petit interpréteur en ligne de commande permettant d’appliquer des transformations simples sur du texte. L’utilisateur saisit une commande suivie d’un argument, et le programme renvoie le texte modifié : uppercase <texte> → convertit le texte en majuscules lowercase <texte> → convertit le texte en minuscules Gère les erreurs (commande inconnue, absence d’argument) Boucle interactive jusqu’à un EOF
+>>>>>>> B/master
